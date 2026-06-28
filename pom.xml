@@ -7,14 +7,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.mycompany</groupId>
-    <artifactId>pruebaTF1</artifactId>
+    <artifactId>pruebatf1</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>17</maven.compiler.release>
-        <exec.mainClass>com.mycompany.pruebatf1.principal.Main</exec.mainClass>
+        <exec.mainClass>com.mycompany.prueba1.principal.Main</exec.mainClass>
     </properties>
 
     <dependencies>
