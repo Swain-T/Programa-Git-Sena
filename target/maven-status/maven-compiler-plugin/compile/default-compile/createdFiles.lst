@@ -1,0 +1,6 @@
+com\mycompany\pruebatf2\modelo\usuario.class
+com\mycompany\pruebatf2\servlet\UsuarioServlet.class
+com\mycompany\pruebatf2\JakartaRestConfiguration.class
+com\mycompany\pruebatf2\dao\UsuarioDAO.class
+com\mycompany\pruebatf2\resources\JakartaEE10Resource.class
+com\mycompany\pruebatf2\conexion\ConexionBD.class
